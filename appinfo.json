@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "thorasmund@gmail.com",
+    "longName": "SettingsTest",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SettingsTest",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "35aa9597-5529-4cb4-bc61-3b87eefff344",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
